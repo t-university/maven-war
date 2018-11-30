@@ -1,2 +1,2 @@
 # maven-war
-Ejemplo de proyecto WAR. 
+Ejemplo de proyecto WAR.
